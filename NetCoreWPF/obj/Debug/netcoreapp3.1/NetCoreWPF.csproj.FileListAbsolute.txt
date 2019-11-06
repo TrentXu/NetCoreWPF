@@ -1,0 +1,17 @@
+C:\Temp\VS Online\NetCoreWPF\bin\Debug\netcoreapp3.1\NetCoreWPF.exe
+C:\Temp\VS Online\NetCoreWPF\bin\Debug\netcoreapp3.1\NetCoreWPF.deps.json
+C:\Temp\VS Online\NetCoreWPF\bin\Debug\netcoreapp3.1\NetCoreWPF.runtimeconfig.json
+C:\Temp\VS Online\NetCoreWPF\bin\Debug\netcoreapp3.1\NetCoreWPF.runtimeconfig.dev.json
+C:\Temp\VS Online\NetCoreWPF\bin\Debug\netcoreapp3.1\NetCoreWPF.dll
+C:\Temp\VS Online\NetCoreWPF\bin\Debug\netcoreapp3.1\NetCoreWPF.pdb
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF.csprojAssemblyReference.cache
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF_MarkupCompile.cache
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF_MarkupCompile.lref
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF.g.resources
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF.AssemblyInfoInputs.cache
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF.AssemblyInfo.cs
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF.dll
+C:\Temp\VS Online\NetCoreWPF\obj\Debug\netcoreapp3.1\NetCoreWPF.pdb
